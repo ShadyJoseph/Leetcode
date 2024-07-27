@@ -4,12 +4,10 @@ function mergeAlternately(word1: string, word2: string): string {
         
         while (i < word1.length || j < word2.length) {
             if (i < word1.length) {
-                merged += word1[i];
-                i++;
+                merged += word1[i++];
             }
             if (j < word2.length) {
-                merged += word2[j];
-                j++;
+                merged += word2[j++];
             }
         }
         return merged;
