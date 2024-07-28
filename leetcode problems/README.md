@@ -8,7 +8,7 @@ This repository contains my solutions to various LeetCode problems. The solution
 - [Merge Strings Alternately](easy/merge_strings_alternately.ts)
 
 ### Medium
-- ...
+- [Add 2 numbers](medium/AddTwoNumbers.ts)
 
 ### Hard
 - ...
