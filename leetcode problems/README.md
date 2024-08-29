@@ -11,4 +11,4 @@ This repository contains my solutions to various LeetCode problems. The solution
 - [Add 2 numbers](medium/AddTwoNumbers.ts)
 - [length Of Longest Substring](medium/lengthOfLongestSubstring.ts)
 ### Hard
-- ...
+- [median of two sorted of two sorted arrays](hard/medianOfTwoSortedArrays.ts)
