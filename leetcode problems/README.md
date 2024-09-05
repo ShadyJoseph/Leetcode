@@ -10,5 +10,6 @@ This repository contains my solutions to various LeetCode problems. The solution
 ### Medium
 - [Add 2 numbers](medium/AddTwoNumbers.ts)
 - [length Of Longest Substring](medium/lengthOfLongestSubstring.ts)
+- [longest plaindromic substring](medium/longestPalindromicSubstring.ts)
 ### Hard
 - [median of two sorted of two sorted arrays](hard/medianOfTwoSortedArrays.ts)
