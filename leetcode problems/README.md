@@ -5,7 +5,8 @@ This repository contains my solutions to various LeetCode problems. The solution
 ## Problems Solved
 
 ### Easy
-- [Merge Strings Alternately](easy/merge_strings_alternately.ts)
+- [Merge Strings Alternately](easy/mergeDtringsAlternately.ts)
+- [palindrome number](easy/PalindromeNumber.ts)
 
 ### Medium
 - [Add 2 numbers](medium/AddTwoNumbers.ts)
