@@ -7,6 +7,7 @@ This repository contains my solutions to various LeetCode problems. The solution
 ### Easy
 - [Merge Strings Alternately](easy/mergeDtringsAlternately.ts)
 - [palindrome number](easy/PalindromeNumber.ts)
+- [two sum](easy/twoSum.ts)
 
 ### Medium
 - [Add 2 numbers](medium/AddTwoNumbers.ts)
